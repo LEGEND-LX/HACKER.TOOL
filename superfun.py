@@ -1,6 +1,6 @@
 import asyncio
 
-@ultroid_cmd(pattern="superfun$")
+@PYTHONBOT_cmd(pattern="superfun$")
 async def fuckd(ult):
  await ult.edit("fuck")
  await asyncio.sleep(2)
